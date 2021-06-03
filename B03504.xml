@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Additional information for my Lord Gray. Against the Laird of Pourie.</title>
+            <author>Gray, Patrick, Baron, fl. 1695.</author>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03504</idno><idno type="EEBO-CITATION">51571942</idno>
+  <idno type="VID">175245</idno>
+  <idno type="EEBO-PROQUEST">2240891526</idno>
+  
+            <idno type="STC">Wing G1623A</idno>
+            <idno type="STC">ESTC R177638</idno>
+            <idno type="OCLC">51571942</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B03504)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175245)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2724:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Additional information for my Lord Gray. Against the Laird of Pourie.</title>
+                  <author>Gray, Patrick, Baron, fl. 1695.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1695?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publication data supplied by Wing.</note>
+                  <note>Concerns a dispute between Patrick Gray and Thomas Fothringham of Powrie.</note>
+                  <note>Imperfect: creased with slight loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Gray, Patrick, --  Baron, fl. 1695 --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term type="personal_name">Fothringham, Thomas, --  of Powrie, fl. 1695 --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term type="topical_term">Warranty of title --  Scotland --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:175245:1"/>
+            <head>Additional Information for my Lord <hi>Gray.</hi> AGAINST The Laird of <hi>Pourie.</hi>
+            </head>
+            <p>THE Laird of <hi>Pourie</hi> finding that my Lord <hi>Gray</hi> in his former Information to the Parliament had fully and clearly taken off, and canvelled all the reasons ad<g ref="char:EOLhyphen"/>duced by <hi>Pourie</hi> for overturning an unnanimous Decreet of the Lords of Sessi<g ref="char:EOLhyphen"/>on, assoilzing My Lord <hi>Gray</hi> from <hi>Pouries</hi> action of warrandice intented a<g ref="char:EOLhyphen"/>gainst him, and not being willing to give it over so soon, he hath as his last Effort drawn and dispersed a new Information stuffed with gross and Calumnious misrepresen<g ref="char:EOLhyphen"/>tations in matter of Fact, which scarce merit any answer, and is needless to answer otherwayes then by opponing the plain grounds of Law and Reasons contained in my Lord <hi>Gray</hi>'s former Information; Yet lest <hi>Pourie</hi> should take advantage by the Defend<g ref="char:EOLhyphen"/>ers silence, and to takeoff any scrouple that may remain with the Honourable Members of Parliament; The following answers are briefly made by my Lord <hi>Gray</hi> to <hi>Pouries</hi> Additional Information.</p>
+            <p>And 1<hi>mo.</hi> whereas he denyes that he exacted the <hi>Size fish,</hi> otherwayes then they were formerly uplifted by the Lord <hi>Gray,</hi> or by <hi>Kid</hi> of <hi>Craigie,</hi> who had a Wodset thereof from the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: <hi>Grays</hi> predecessors. It is answered, His rigorous and extraordinary exacting of the <hi>Size fish,</hi> was notour to the whole Country, which consisted in two particulars; First, In changing the place of drawing the <hi>Size fish</hi> from the Craige of <hi>Broughtie,</hi> to the Mercat of <hi>Dundee,</hi> thereby disturbing the Mercat, and hindering the people from selling their Fish. 2. In exacting the <hi>Size fish,</hi> whenever the Boats went to Sea, albeit they catched nothing, by doubling the Exaction, and taking twice as much as his due from the Boats, when ever they came in Loadned, which was never formerly practised by the former Heritors, and was so intollerable a Servitude and Burden, That the Earl of <hi>Pan<g ref="char:EOLhyphen"/>mure</hi> declared, That in case <hi>Pourie</hi> prevailled in his Declarator, for constituting the Servitude, he would rather have given up his Fishing, and broken his whole Boats, then been lyable to such a grievous burden.</p>
+            <p n="2">2. As to <hi>Pouries</hi> denying that he gave any Money for procuring the Bargain to any person whatsoever. It is Answered, That it is nottourly known, That my Lord <hi>Gray</hi> got only 20<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>00 Merks for <hi>Broughtie,</hi> albeit there be 21000 Merks insert in the Dispo<g ref="char:EOLhyphen"/>sitiont which <hi>Poury</hi> got blank as to the Sum, and filled it up since he intented his Ac<g ref="char:EOLhyphen"/>tion of Warrandice, before the Lords of Session, neither can he deny, that there was a 1000 M: given to one as a Gratification, who had influence to procure him the Bargain, but it is not m tterial, whether he gave any such Gratification or not, the Bargain being most advantagious. albeit he had payed the whole 21000 Merks therefore, and whither the Lands were sold by a fixed and stated Rental or not, it imports nothing, since he cannot deny but the Lands of <hi>Broughtie</hi> paved the Rent mentioned in my Lord <hi>Gray</hi>'s Information. <hi>Viz,</hi> 1700 Merks, and a Hogshead of Wine for the Salmond Fishing, and 230 Merks, with a Darrel or Salmond of a <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ew Duty, which is a very considerable Rent for so small a price, albeit he had not the casuality of the <hi>Size Fish</hi> to the bargain, and which Rent hath been constantly payed to <hi>Pourie</hi> since his purchase these 29 years bypast, until within these two or three years that the Fishing sell in his own hand; The Tacksmen being unwilling to continue their Possession any longer, upon the account of <hi>Pouries</hi> rigor and severity; And albeit <hi>Craigie</hi> got a Wodset of the whole for 12000 M: that sayes nothing to deminish the Rent thereof since it was certainly a very <hi>lucrative Wodset</hi> and made great accession to <hi>Craigies</hi> Estate, whereof <hi>Pourie</hi> was so conscious, that he caus<g ref="char:EOLhyphen"/>ed insert in the Disposition granted to him by my Lord <hi>Gray,</hi> of the Lands of <hi>Broughtie</hi>
+               <pb facs="tcp:175245:2"/> an assignation to and action of Compt and reckoning competent against <hi>Craigie,</hi> that he might call him to accompt for the superplus Rents, and if need were it could be pro<g ref="char:EOLhyphen"/>ven that his own Tacks-men of the Salmond Fishing allannarly made in one year 5000 Merk of neat pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fit.</p>
+            <p n="3">3<hi>tio.</hi> Whereas he asserts, That the s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>z<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Fish is expresly contained in the Ancient Writes, And particularly in <hi>Craigies</hi> Wodset; It is answered, it is a most calumnious Alleagance, and evidently redargued by <hi>Pamutres</hi> Decreet of Immunitie, for if the syze fish had been contained in the Ancient Writes, <hi>Pourie</hi> would have certainly prevail<g ref="char:EOLhyphen"/>ed against the Earl, and he would not have been straitned to ob<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rude Prescription.</p>
+            <p n="4">4<hi>to. Pourie</hi> denys that there are six Boats yet lyable in payment of the <hi>Size fish;</hi> And that whether it were so or not, <hi>nihil refert,</hi> since all the other Fishers did forbear to pay, after the Lord <hi>Panmure</hi> was assoilzied, and it would be in vain to insist against them, being in the same case with these assoi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>zed. It is Answered, since <hi>Pourie</hi> cannot contravert, but that there were ten Boats lyable for <hi>Size fish;</hi> whereof he was in pos<g ref="char:EOLhyphen"/>session for many years after his purchase, and that there are only four Boats belonging to <hi>Panmures</hi> Tenents, declared free; How is it possible but six must still remain, and if <hi>Pourie</hi> has no mind to exact the <hi>Size fish</hi> from these that are Lyable, that ought not to prejudge my Lord <hi>Gray,</hi> neither are <hi>Panmures</hi> Tenents and the other Fishers, who yet remain and are lyable in payment of the <hi>Sizefish,</hi> any wayes in the like Circum<g ref="char:EOLhyphen"/>stances, <hi>Panmure</hi> being assoilzied, because the Prescription was no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> compleated against him, through his Minority, and <hi>Pouries</hi> acquiring a Wodset Right of the Lands lyable in payment of the <hi>Size fish,</hi> which O<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>jection being personal, both to the Earl of <hi>Pan<g ref="char:EOLhyphen"/>mure,</hi> and against <hi>Pourie,</hi> is not competent to any others lyable in payment.</p>
+            <p n="5">5<hi>to,</hi> As to that pretence, That the Syze fish are disponed in as clear Terms, as the Salmond fishing, and consequently cannot be repute part and pertinent, there being no mention made of the number of the Salmond and Cobles, more then of the size fish neither was it necessar to mention the <hi>Size Fish</hi> more particularly in the Disposition, since they were nottour to the whole Countrey, and these words in the Disposition <hi>[thereto belonging]</hi> must be applyed to the Gener<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l clause of <hi>(all other Fishings)</hi> imme<g ref="char:EOLhyphen"/>diatly preceeding, and not to the <hi>size fish,</hi> To which it is answered, That the parallel betwi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o far as the Salmond fish<g ref="char:EOLhyphen"/>ing is specially narrated in all the Rights mentioned in <hi>Pouries</hi> Disposition, and was alwayes a part of the Rental, but the size fish is neither mentioned in these Rights, nor is a part of the Rental; 2<hi>do.</hi> The salmond fishing is <hi>inter Regalia,</hi> and does not fall under the general Designation of part and pertinent, but must be particularly disponed. 3<hi>tio.</hi> That the Size fish is only a pertinent, is clear from the grounds adduced in my Lord <hi>Gray's</hi> former Information, which is needless here to repeat. 4<hi>to.</hi> The Sal<g ref="char:EOLhyphen"/>mond fishing is a positive Right, belonging either to the King, or Heritor of the <hi>Alvens,</hi> or Channel of the Water, where the fishes are taken; And the Emoluments thereof does arise out of the Heritors own property, whereas the s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>z<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fish is no proper separate Right, but a servitude upon another mans right, which does not fall under any Ac<g ref="char:EOLhyphen"/>tion of Recourse upon Warrandice.</p>
+            <p>Lastly, As to <hi>Pouries</hi> mismanadgement of the Process, the same is clearly instructed by <hi>Panmures</hi> Decreet of immunity, which bears expresly that <hi>Pourie</hi> did omit to inter<g ref="char:EOLhyphen"/>rogat the Witnesses adduced for proving that prescription upon the number of years, that my Lord <hi>Grayes</hi> Predecessors possessed the <hi>Size Fish;</hi> And if the Witnesses had been so interrogat, the prescription had been undoubtedly proven; A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d albeit he has the confidence to affi m, that <hi>Criebie</hi> was present at the Examination of the Witnessess, and might have supplyed <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> O<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>iss<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>▪ Y<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> g<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>sly false, That <hi>Criebie</hi> is willing to give his Oath, that he was not within eight myles of that place, where the Witnesses were examined at the time; And since <hi>Pourie</hi> ass<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rts such gross misrep<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>esentations, which are so plainly redargued, All the other Alleagances con<g ref="char:EOLhyphen"/>tained in his Information depending meerly upon his own Testimony, and destitute of the least presumption of Truth, ought no wayes to be regarded, but Rejected as all of one piece.</p>
+            <closer>In Respect thereof, &amp;c.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
